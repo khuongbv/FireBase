@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Filter({ value, onChange }) {
 
   const handleClick = (key, e) => {
